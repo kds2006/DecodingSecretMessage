@@ -1,8 +1,0 @@
-{
-  "dependencies": {
-    "pnpm": "^12.6.0"
-  },
-  "allowScripts": {
-    "pnpm@12.6.0": true
-  }
-}
